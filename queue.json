@@ -6,16 +6,52 @@
       "id": "2026-11-13-reel",
       "at": "2026-11-13T15:00:00-06:00",
       "type": "reel",
-      "media": ["media/2026-11-13/reel.mp4"],
+      "media": [
+        "media/2026-11-13/reel.mp4"
+      ],
       "thumb_offset": 0,
-      "caption": "Quotes, schedules, invoices, follow-ups. If you do it by hand every week, it should be a tool built around how your business already works.\n\nWant to see yours? Free mockup. DM TOOLS or tap the link in bio.\n\n#smallbusiness #smallbusinessowner #businesstools #customsoftware #automation #productivity"
+      "caption": "Quotes, schedules, invoices, follow-ups. If you do it by hand every week, it should be a tool built around how your business already works.\n\nWant to see yours? Free mockup. DM TOOLS or tap the link in bio.\n\n#smallbusiness #smallbusinessowner #businesstools #customsoftware #automation #productivity",
+      "video_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-13/reel.mp4"
     },
     {
       "id": "2026-11-13-carousel",
       "at": "2026-11-13T18:00:00-06:00",
       "type": "carousel",
-      "media": ["media/2026-11-13/carousel_01.jpg","media/2026-11-13/carousel_02.jpg","media/2026-11-13/carousel_03.jpg","media/2026-11-13/carousel_04.jpg","media/2026-11-13/carousel_05.jpg","media/2026-11-13/carousel_06.jpg"],
-      "caption": "Invoices that chase themselves. Quotes that follow up alone. Schedules that send themselves.\n\nIf you do it by hand every week, it should be a tool. Want to see yours? Free mockup. DM TOOLS or tap the link in bio.\n\n#smallbusiness #smallbusinessowner #businesstools #customsoftware #automation #productivity"
+      "media": [
+        "media/2026-11-13/carousel_01.jpg",
+        "media/2026-11-13/carousel_02.jpg",
+        "media/2026-11-13/carousel_03.jpg",
+        "media/2026-11-13/carousel_04.jpg",
+        "media/2026-11-13/carousel_05.jpg",
+        "media/2026-11-13/carousel_06.jpg"
+      ],
+      "caption": "Invoices that chase themselves. Quotes that follow up alone. Schedules that send themselves.\n\nIf you do it by hand every week, it should be a tool. Want to see yours? Free mockup. DM TOOLS or tap the link in bio.\n\n#smallbusiness #smallbusinessowner #businesstools #customsoftware #automation #productivity",
+      "files": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-13/carousel_01.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-13/carousel_02.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-13/carousel_03.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-13/carousel_04.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-13/carousel_05.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-13/carousel_06.jpg"
+        }
+      ]
     }
   ]
 }
