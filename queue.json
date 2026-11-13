@@ -3,6 +3,12 @@
   "timezone": "America/Chicago",
   "posts": [
     {
+      "id": "dryrun-test",
+      "at": "2026-11-13T13:28:41-06:00",
+      "type": "test-only",
+      "caption": "not posted"
+    },
+    {
       "id": "2026-11-13-reel",
       "at": "2026-11-13T15:00:00-06:00",
       "type": "reel",
