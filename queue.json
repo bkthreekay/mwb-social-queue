@@ -107,43 +107,6 @@
       "caption": "Forgot to ask for reviews? An hour after the job, a thank-you and review request go out for you. More 5 stars, zero reminders.\n\nWhen did you last ask a customer for a review? 👇\n\nWant this for your business? Free mockup. DM TOOLS or tap the link in bio.\n\n#smallbusiness #smallbusinessowner #businesstools #customsoftware #automation #productivity"
     },
     {
-      "id": "2026-11-17-post",
-      "at": "2026-11-17T18:00:00-06:00",
-      "type": "photo",
-      "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-17/post.jpg",
-      "caption": "Reviews ask for themselves. Every finished job gets a thank-you and a review request, automatically.\n\nWant this for your business? Free mockup. DM TOOLS or tap the link in bio.\n\n#smallbusiness #smallbusinessowner #businesstools #customsoftware #automation #productivity"
-    },
-    {
-      "id": "2026-11-18-reel",
-      "at": "2026-11-18T12:00:00-06:00",
-      "type": "reel",
-      "video_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-18/reel.mp4",
-      "thumb_offset": 0,
-      "caption": "No-shows cost you money. A reminder goes out the day before, customers reply C to confirm, and your calendar stays full.\n\nHow many no-shows did you have last month? 👇\n\nWant this for your business? Free mockup. DM TOOLS or tap the link in bio.\n\n#smallbusiness #smallbusinessowner #businesstools #customsoftware #automation #productivity"
-    },
-    {
-      "id": "2026-11-18-post",
-      "at": "2026-11-18T18:00:00-06:00",
-      "type": "photo",
-      "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-18/post.jpg",
-      "caption": "Fewer no-shows. Automatic reminders, one-tap confirm or reschedule, and a full calendar.\n\nWant this for your business? Free mockup. DM TOOLS or tap the link in bio.\n\n#smallbusiness #smallbusinessowner #businesstools #customsoftware #automation #productivity"
-    },
-    {
-      "id": "2026-11-19-reel",
-      "at": "2026-11-19T12:00:00-06:00",
-      "type": "reel",
-      "video_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-19/reel.mp4",
-      "thumb_offset": 0,
-      "caption": "Monday to Friday, by hand? Invoices, quotes, reminders, schedules, reviews. If you do it by hand every week, it should be a tool.\n\nWhich one takes most of your week? 👇\n\nWant this for your business? Free mockup. DM TOOLS or tap the link in bio.\n\n#smallbusiness #smallbusinessowner #businesstools #customsoftware #automation #productivity"
-    },
-    {
-      "id": "2026-11-19-post",
-      "at": "2026-11-19T18:00:00-06:00",
-      "type": "photo",
-      "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-19/post.jpg",
-      "caption": "Built around your week. Quotes, invoices, scheduling, reminders, follow-ups, reviews, intake forms, reports. Whatever you do by hand every week, we can build.\n\nFor salons, contractors, clinics, shops.\n\nWant this for your business? Free mockup. DM TOOLS or tap the link in bio.\n\n#smallbusiness #smallbusinessowner #businesstools #customsoftware #automation #productivity"
-    },
-    {
       "id": "2026-11-17-solenne-app",
       "at": "2026-11-17T13:45:00-06:00",
       "type": "carousel",
@@ -174,6 +137,38 @@
         }
       ],
       "caption": "Meet Solenne, an app concept for a skin clinic.\n\nBook treatments in seconds, track your skin's progress, and ask your esthetician anything, all in one calm, beautiful place. Built around the clinic's brand, down to the rose in the logo.\n\nThis is a concept we designed to show what's possible. Want an app like this for your business? DM us \"APP\" and we'll design your app mockup for free.\n\n#appdesign #uidesign #mobileapp #skincare #skinclinic #smallbusiness #branding #mwbintelligence"
+    },
+    {
+      "id": "2026-11-17-solenne-website",
+      "at": "2026-11-17T18:00:00-06:00",
+      "type": "carousel",
+      "files": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-17/solenne-website/01.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-17/solenne-website/02.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-17/solenne-website/03.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-17/solenne-website/04.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-17/solenne-website/05.jpg"
+        },
+        {
+          "media_type": "VIDEO",
+          "video_url": "https://bkthreekay.github.io/mwb-social-queue/media/2026-11-17/solenne-website/06.mp4"
+        }
+      ],
+      "caption": "Meet Solenne, a website concept for a skin clinic.\n\nCalm, premium, and built to turn visitors into bookings: treatments with prices, real-time booking, and hours and directions, all in the clinic's own look.\n\nThis is a concept we designed to show what's possible. Want a website like this for your business? DM us \"SITE\" and we'll design your homepage mockup for free.\n\n#webdesign #websitedesign #uidesign #skincare #skinclinic #smallbusiness #branding #mwbintelligence"
     }
   ]
 }
